@@ -6,6 +6,7 @@ import 'package:provider/provider.dart';
 
 import 'screen/splash_screen.dart';
 import 'view_model/theme_provider.dart';
+//name
 
 void main() {
   runApp(
